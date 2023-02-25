@@ -1,1 +1,1 @@
-# pytorch
+# Implementing of AI model by PyTorch
